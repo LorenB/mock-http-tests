@@ -1,0 +1,23 @@
+{
+  "name": "mock-http-tests",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LorenB/mock-http-tests.git"
+  },
+  "author": "Loren W Barcus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LorenB/mock-http-tests/issues"
+  },
+  "homepage": "https://github.com/LorenB/mock-http-tests",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-mocks": "^1.5.0"
+  }
+}
